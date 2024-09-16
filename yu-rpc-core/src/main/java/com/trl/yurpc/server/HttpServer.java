@@ -1,8 +1,5 @@
 package com.trl.yurpc.server;
 
-import io.vertx.core.Vertx;
-
-
 /**
  * HTTP 服务器接口
  */

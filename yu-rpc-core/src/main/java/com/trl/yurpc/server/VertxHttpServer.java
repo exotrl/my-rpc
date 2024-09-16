@@ -2,7 +2,7 @@ package com.trl.yurpc.server;
 
 import io.vertx.core.Vertx;
 
-public class VertxHttpServer implements HttpServer {
+public class VertxHttpServer implements com.trl.yurpc.server.HttpServer {
 
     public void doStart(int port) {
         // 创建 Vert.x 实例
